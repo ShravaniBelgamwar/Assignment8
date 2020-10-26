@@ -13,6 +13,8 @@ function initialize() {
         {name: "Sally Smith", title: "Quality Assurance", extension: 3423},
         {name: "Mark Martin", title: "VP Sales", extension: 3346},
         {name: "John Johnson", title: "Marketing", extension: 3232},
+		{name: "Paul Williams", title: "Quality Assurance", extension: 3244},
+		{name: "Martha Miller", title: "Marketing", extension: 3632}
     ];
 
     loadEmployees();
